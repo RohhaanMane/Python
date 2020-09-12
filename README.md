@@ -1,2 +1,2 @@
-# Python---Patterns
-This repository contais all python patterns which I have practiced
+# Python <\>
+This repository contais all python codes which I have practiced
